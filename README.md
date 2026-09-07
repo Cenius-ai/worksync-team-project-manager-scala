@@ -46,7 +46,7 @@ See [`INSTALL.md`](INSTALL.md) for full setup and usage instructions.
 
 ## Architecture
 
-Folder layout: `project/`, `src/`. `./install.sh` gets you from a fresh clone to a running instance with sample data in a single step. Built in Scala (110 files). See [`INSTALL.md`](INSTALL.md) for complete setup instructions.
+Folder layout: `project/`, `src/`. `./install.sh` gets you from a fresh clone to a running instance with sample data in a single step. Built in Scala (97 files). See [`INSTALL.md`](INSTALL.md) for complete setup instructions.
 
 ## Usage guide
 
